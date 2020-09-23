@@ -5,7 +5,7 @@ Challenge 2 - Deep Poverty Network - Case information: https://drive.google.com/
 Challenge 3 - Deep Poverty Network - Case information: https://drive.google.com/drive/folders/1cO0o6Ek5ooOvQLxLptb2I8JZX25W6sGl?usp=sharing
 Challenge 4 - Deep Poverty Network - Case information: https://drive.google.com/drive/folders/1cO0o6Ek5ooOvQLxLptb2I8JZX25W6sGl?usp=sharing
 Challenge 5 - Deep Poverty Network - Case information: https://drive.google.com/drive/folders/1cO0o6Ek5ooOvQLxLptb2I8JZX25W6sGl?usp=sharing
-Challenge 6 - Deep Poverty Network - Case information: (https://drive.google.com/drive/folders/1cO0o6Ek5ooOvQLxLptb2I8JZX25W6sGl?usp=sharing)
+[Challenge 6 - Deep Poverty Network](https://drive.google.com/drive/folders/1cO0o6Ek5ooOvQLxLptb2I8JZX25W6sGl?usp=sharing)
 
 
 # Innovation Hackathon September 25 - 27, 2020
