@@ -1,11 +1,11 @@
 # innovation-hackathon-2020
 The Innovation Hackathon is an opportunity to develop tech-based solutions that drive social impact, with the aim of tackling some of the challenges faced by social entrepreneurs in Turkey in the current pandemic.
-# Deep Poverty Network - Challenge 1 - Case information: https://drive.google.com/drive/folders/1cO0o6Ek5ooOvQLxLptb2I8JZX25W6sGl?usp=sharing
-# Deep Poverty Network - Challenge 2 - Case information: https://drive.google.com/drive/folders/1cO0o6Ek5ooOvQLxLptb2I8JZX25W6sGl?usp=sharing
-# Deep Poverty Network - Challenge 3 - Case information: https://drive.google.com/drive/folders/1cO0o6Ek5ooOvQLxLptb2I8JZX25W6sGl?usp=sharing
-# Deep Poverty Network - Challenge 4 - Case information: https://drive.google.com/drive/folders/1cO0o6Ek5ooOvQLxLptb2I8JZX25W6sGl?usp=sharing
-# Deep Poverty Network - Challenge 5 - Case information: https://drive.google.com/drive/folders/1cO0o6Ek5ooOvQLxLptb2I8JZX25W6sGl?usp=sharing
-# Deep Poverty Network - Challenge 6 - Case information: https://drive.google.com/drive/folders/1cO0o6Ek5ooOvQLxLptb2I8JZX25W6sGl?usp=sharing
+Challenge 1 - Deep Poverty Network - Case information: https://drive.google.com/drive/folders/1cO0o6Ek5ooOvQLxLptb2I8JZX25W6sGl?usp=sharing
+Challenge 2 - Deep Poverty Network - Case information: https://drive.google.com/drive/folders/1cO0o6Ek5ooOvQLxLptb2I8JZX25W6sGl?usp=sharing
+Challenge 3 - Deep Poverty Network - Case information: https://drive.google.com/drive/folders/1cO0o6Ek5ooOvQLxLptb2I8JZX25W6sGl?usp=sharing
+Challenge 4 - Deep Poverty Network - Case information: https://drive.google.com/drive/folders/1cO0o6Ek5ooOvQLxLptb2I8JZX25W6sGl?usp=sharing
+Challenge 5 - Deep Poverty Network - Case information: https://drive.google.com/drive/folders/1cO0o6Ek5ooOvQLxLptb2I8JZX25W6sGl?usp=sharing
+Challenge 6 - Deep Poverty Network - Case information: (https://drive.google.com/drive/folders/1cO0o6Ek5ooOvQLxLptb2I8JZX25W6sGl?usp=sharing)
 
 
 # Innovation Hackathon September 25 - 27, 2020
@@ -27,6 +27,11 @@ Include either
 a link to a repository containing your project (e.g. an integration or plugin), or
 a short, 1-2 paragraph description of your work.
 Submit your changes as a pull request. If other members worked with you on the project, please make sure to include that in your pull request description.
+
+read me file in the repository should include the following:
+The challenge you have chosen 
+A description of your project/solution (1-2 paragraph description that includes its features, how it can be implemented to the existing business model etc.)
+How to install/run/setup your project/solution
 
 # Things to know
 1 - Participants from the community who submit a Hackathon project will receive a Mattermost swag bag!
