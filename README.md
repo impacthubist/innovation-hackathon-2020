@@ -31,7 +31,7 @@ Create a new file in hackathon-submissions folder. Please use .md as the extensi
 Name the file <your-github-username>-<your-submission-name>. 
 For example, jasonblais-onedrive-plugin.
 
-Include either
+Include
 a link to a repository containing your project
 a short, 1-2 paragraph description of your work and how t would be answering challenge quesition.
 Submit your changes as a pull request. If other members worked with you on the project, please make sure to include that in your pull request description while mentioning team members who contributed.
@@ -40,6 +40,9 @@ Submit your changes as a pull request. If other members worked with you on the p
 The challenge you have chosen + challenge#
 A description of your project/solution (1-2 paragraph description that includes its features, how it can be implemented to the existing business model etc.)
 How to install/run/setup your project/solution (At the end of the hackathon judges will analyse/simulate your uploads to check the functioning + impact of the solution + how clearly the code is explained for further use + quality of the work in general)
+
+You can see a [sample submission here](https://github.com/impacthubist/innovation-hackathon-2020/blob/master/hackathon-submissions/test-submit.md).
+
 
 ## Things to know
 1 - Participants of the Hackathon are advice to join all live sessions and strongly adviced to follow social media posts.
