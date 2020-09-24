@@ -20,9 +20,12 @@ The Innovation Hackathon is an opportunity to develop tech-based solutions that 
 ## Innovation Hackathon 25.09.2020 @18:00 - 27.09.2020
 Innovation Hackathon is holding a virtual hackathon and everyone is invited to participate! 
 You can work on one of the 6 challenges posted by the collaborators of Impact Hub Istanbul for your hackathon project.
+
 ## Challenge Solution Submission Deadline: 27.09.2020 @23.59
-Challenge Finalist Selection:  Max. 1 team/solution provided for each challenge will be selected by the jury and only 3 of them to be announced as winner for implementation.  Evaluation Period: 28.09.2020 - 05.10.2020
-Winners Announcement: 2-5 October 2020.
+Challenge Finalist Selection: At most 1 solution per challenge will be chosen by the judges as finalists, and only 3 of them overall will be announced as winners that will be implemented into the business models of the social enterprises.
+
+Evaluation Period: 28.09.2020 - 05.10.2020
+Announcement of winners: 02.10.2020 - 05.10.2020
 
 ### Demo Day for Implemented Solutions: 05.11.2020 (will be announced from Impact Hub social media channels)
 
