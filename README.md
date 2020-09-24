@@ -42,6 +42,7 @@ The "README" file in your project repository should include the following: i) Th
 
 You can see a [sample submission here](https://github.com/impacthubist/innovation-hackathon-2020/blob/master/hackathon-submissions/impacthubist-myproject.md).
 
+[Here](https://opensource.com/article/19/7/create-pull-request-github) is a guide on how to make a pull request.
 
 ## Things to know
 
