@@ -8,7 +8,7 @@ The Innovation Hackathon is an opportunity to develop tech-based solutions that 
 
 [Challenge 3 - ROOF CO-LIVING](https://drive.google.com/drive/folders/16ah7TBx0GM7UPJNw48nalHW6YeuaxcUX?usp=sharing)
 
-[Challenge 4 - ONARANLAR KULUP](https://drive.google.com/drive/folders/1ogeEfkrMpC1L2g2TI4hyiCBsmbhGlk5Z?usp=sharing)
+[Challenge 4 - ONARANLAR KULÜBÜ](https://drive.google.com/drive/folders/1ogeEfkrMpC1L2g2TI4hyiCBsmbhGlk5Z?usp=sharing)
 
 [Challenge 5 - SMALL PROJECTS ISTANBUL](https://drive.google.com/drive/folders/1vQIyLa4RHrsSn9iKnwV2W0xxEmAvoQ6G?usp=sharing)
 
