@@ -17,10 +17,10 @@ The Innovation Hackathon is an opportunity to develop tech-based solutions that 
 [Challenge 6 - TINA ZITA](https://drive.google.com/drive/folders/1cO0o6Ek5ooOvQLxLptb2I8JZX25W6sGl?usp=sharing)
 
 
-## Innovation Hackathon 25September2020 @18:00 - 27September2020 @23.59
+## Innovation Hackathon 25.09.2020 @18:00 - 27.09.2020
 Innovation Hackathon is holding a virtual hackathon and everyone is invited to participate! 
 You can work on one of 6 Challenges to do with Impact Hub Istanbul for your hackathon project.
-## Challenge Solution Submission Deadline: 27.09.2020 @00:00
+## Challenge Solution Submission Deadline: 27.09.2020 @23.59
 Challenge Finalist Selection:  Max. 1 team/solution provided for each challenge will be selected by the jury and notified by the week of 2-5 October 2020.
 Evaluation Period: 28.09.2020 - 02-05.10.2020
 ### Demo Day for Implemented Solutions: 05.11.2020 (will be announced from Impact Hub social media channels)
@@ -31,7 +31,7 @@ Evaluation Period: 28.09.2020 - 02-05.10.2020
 Submit your Hackathon project following these steps:
 Create a new file in hackathon-submissions folder. Please use .md as the extension of the file.
 Name the file <your-github-username>-<your-submission-name>. 
-For example, jasonblais-onedrive-plugin.
+For example, impacthubist-myproject.
 
 Include
 a link to a repository containing your project
