@@ -48,7 +48,7 @@ You can see a [sample submission here](https://github.com/impacthubist/innovatio
 
 ## Things to know
 
-1 - Participants of the Hackathon are advice to join all live sessions and strongly adviced to follow social media posts. Don't know what to work on? Check out [Hackathon ideas spreadsheet](https://docs.google.com/spreadsheets/d/1Bs6ErSFgCm4WQ4V-1NdOKHY-D4Rb17pzpDKLv7adEXA/edit?usp=sharing) for inspiration.
+1 - Participants of the Hackathon are advice to join all live sessions and strongly adviced to follow social media posts. 
 
 2 - Hackathon kick-off call takes place on Friday 25 September at 18:00. We'll close the Hackathon Submissions on Sunday 27 September at 23:59 (Turkey time). 
 
