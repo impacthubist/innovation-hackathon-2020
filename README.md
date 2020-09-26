@@ -14,7 +14,7 @@ The Innovation Hackathon is an opportunity to develop tech-based solutions that 
 
 [Challenge 5 - SMALL PROJECTS ISTANBUL](https://drive.google.com/drive/folders/1vQIyLa4RHrsSn9iKnwV2W0xxEmAvoQ6G?usp=sharing)
 
-[Challenge 6 - TINA ZITA](https://drive.google.com/drive/folders/1cO0o6Ek5ooOvQLxLptb2I8JZX25W6sGl?usp=sharing)
+[Challenge 6 - TINA ZITA](https://drive.google.com/drive/folders/1dsuKWL3cIQV0q6sPENbjWCq90DQZo1s0?usp=sharing)
 
 
 ## Innovation Hackathon 25.09.2020 @18:00 - 27.09.2020
