@@ -1,0 +1,60 @@
+i) The challenge question you have chosen 
+
+Challenge 4: How might we develop a digital tool that generates data-driven recommendations for urban hacking for Onaranlar, in order to sustain their impact under the pandemic conditions? 
+
+
+ii) A description of your project/solution (1-2 paragraph description that includes its features, how it can be implemented to the existing business model etc.) 
+
+SPOT IT - PIN IT - HACK IT! 
+We have developed an urban hacking app for Onaranlar Kulübü which is an interactive map,
+a platform for the Onaranlar community - and a showcase for its sponsors. 
+Onaranlar had to suspend their urban explorations and creative workshops under the Covid-19 pandemic conditions. 
+Onaranlar app will make super fun urban hacking projects and collective action possible again.
+Here's how it works: The user takes a photo of the place they want to be hacked. They sign in, upload the photo to the app and pin it on the map. 
+They can use iPhone app Measurement to enter the dimensions of the object to be hacked and post their ideas for hacks in the comment section. 
+This "hackable" is open to votes from the community who can as well comment, 
+upload a sketch or volunteer for its production - collectively deciding what to hack and how to do it.
+It's then up to the Onaranlar team to select the ideas and plan the production stage. 
+The team can either produce themselves or ask their volunteers to do so. 
+Once the hack is modelled and produced, the team contacts the volunteer for its installation. 
+Finally, the volunteer uploads the photo of the hack and the team marks the "hackable" as completed!
+The Onaranlar team can pin and upload their previous projects to the app and make the STL open access. 
+This will increase Onaranlar's visibility, geographical reach and the number of their potential sponsors. 
+
+
+iii) How to install/run/setup your project/solution. 
+
+We have done App design as well as website 
+- First you can view the protoype which is in an MP4 file type as well as you can view the Adobe XD file,
+  You're also provided with a presentation explaining the solution more, you will find all that in the link below
+https://drive.google.com/drive/folders/1eM7YvlXQAe_iWFab71cmDBK0SfKQvt7O?usp=sharing
+
+
+- Secondly, Onaranlar Website
+## Setup
+
+https://github.com/MehmetUzel/Innovation-Hackathon-Onaranlar
+
+1. Git Clone the project and unzip file
+
+2. Move to the base directory: ```cd Onaranlar-Website```
+
+3. Create a new python enveronment with: ```python -m venv env```.
+
+4. Activate enveronment with: ```env\Scripts\activate``` on windows, or ```source env/bin/activate``` on Mac and Linux.
+
+5. Install required dependences with: ```pip install -r requirements.txt```.
+
+6. Make migrations with: ```python manage.py makemigrations``` and then ```python manage.py migrate```.
+
+7. Run app localy with: ```python manage.py runserver```.
+
+8. Use this link to open website "http://127.0.0.1:8000"
+
+9. To use admin panel you should add "/admin" at the end of url
+
+__________________________________________________________________
+Thank you very much for your time, It is much appreciated.
+__________________________________________________________________
+
+
