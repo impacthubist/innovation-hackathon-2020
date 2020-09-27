@@ -42,6 +42,18 @@ Updating status
 
 Note: Some of our practices that we implemented in order to take quick actions are not supported by Safari, we recommend you to use Google Chrome.
 
+## Our Team
+
+[Ceren Haydaroğlu](https://www.linkedin.com/in/ceren-haydaro%C4%9Flu-816b54182/)
+
+[Zişan Özdemir](https://www.linkedin.com/in/zisanozdemir/)
+
+[Fatih Furkan Has](https://www.linkedin.com/in/fatihfurkanhas/)
+
+[Mustafa Ezer](https://www.linkedin.com/in/mustafaezer/)
+
+[Orhan Gazi Dizdaroğlu](https://www.linkedin.com/in/orhangazidizdaroglu/)
+
 ## Related links:
 
 Deployed site:
